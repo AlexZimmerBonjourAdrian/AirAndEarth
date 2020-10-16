@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcade5.CSharp.Plugins", "Arcade5.CSharp.Plugins.csproj", "{FE8B1B75-C806-F1B2-6D84-9D758F9B7FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcade5.CSharp", "Arcade5.CSharp.csproj", "{296F2BF2-8370-E091-3C95-1EA17E6DDE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arcade5.CSharp.Editor", "Arcade5.CSharp.Editor.csproj", "{0F9C8A9A-285D-72FA-C5E0-CBC0B6F31457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8B1B75-C806-F1B2-6D84-9D758F9B7FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8B1B75-C806-F1B2-6D84-9D758F9B7FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8B1B75-C806-F1B2-6D84-9D758F9B7FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8B1B75-C806-F1B2-6D84-9D758F9B7FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296F2BF2-8370-E091-3C95-1EA17E6DDE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296F2BF2-8370-E091-3C95-1EA17E6DDE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296F2BF2-8370-E091-3C95-1EA17E6DDE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296F2BF2-8370-E091-3C95-1EA17E6DDE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9C8A9A-285D-72FA-C5E0-CBC0B6F31457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9C8A9A-285D-72FA-C5E0-CBC0B6F31457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9C8A9A-285D-72FA-C5E0-CBC0B6F31457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9C8A9A-285D-72FA-C5E0-CBC0B6F31457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
